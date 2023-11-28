@@ -11,4 +11,6 @@ Welcome to the official GitHub repository for Fullstack 30!
 ## Repositories 📚
 | Repositories | Link |
 |--------|----------- |
-|Front End Website - Eduliterate|https://github.com/FS-30/01-Front-End-Website|
+|01-Front-End-Website|https://github.com/FS-30/01-Front-End-Website|
+|02-FE-Eduliterate-React|https://github.com/FS-30/02-FE-Eduliterate-React|
+|03-BE-Eduliterate-Express|https://github.com/FS-30/03-BE-Eduliterate-Express|
